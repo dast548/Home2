@@ -3,7 +3,7 @@
 int main(int argc, char** argv)
 {
   std::string name;
-  // запрашиваем имя пользователя
+  // ask for user name.
   std::cout << "Enter your name: ";
   std::cin >> name;
   // выводим приветствие
